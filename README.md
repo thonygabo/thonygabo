@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gabo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://subirimagenes.s3.eu-central-1.wasabisys.com/subirimagenes/uzpenSTObn.png" width="230">
+<img align='right' src="https://i.ibb.co/MpL3DHL/shoto.png" width="230">
 <p><em>In process of web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
  
