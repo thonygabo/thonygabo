@@ -11,8 +11,11 @@
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
 ## Find me at:
@@ -23,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielReyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-reyes-4a8410154/)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>-->
 
 ---
 
