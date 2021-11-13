@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gabo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Gabo!</h2>
 <img align='right' src="https://i.ibb.co/MpL3DHL/shoto.png" width="230">
 <p><em>In process of web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -7,7 +7,6 @@
 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
